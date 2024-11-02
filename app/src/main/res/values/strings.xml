@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APO</string>
+    <string name="sobre">Informações</string>
+    <string name="my_map_api_key">INSERIR_CHAVE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
