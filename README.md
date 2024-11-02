@@ -2,4 +2,4 @@
 APO da disciplina de Programação de Dispositivos Móveis.
 
 
-***** Inserir a chave da API do google Maps no values/strings.xml *****
+***** Inserir a chave da API do Google Maps no values/strings.xml *****
